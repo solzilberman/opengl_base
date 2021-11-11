@@ -4,11 +4,11 @@ Template I made for getting started with OpenGL. GLEW + freeglut.
 #Compilation
 make
 
-#Run
+# Run
 make run
 ./main
 
-#Features
+# Features
 - vertex buffer
 - index buffer
 - vertex + fragment shader
